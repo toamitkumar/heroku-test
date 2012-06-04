@@ -1,5 +1,7 @@
 # Spring MVC and Hibernate template application
 
+[![Build Status](https://secure.travis-ci.org/toamitkumar/heroku-test.png)](http://travis-ci.org/toamitkumar/heroku-test)
+
 This is a template for a web application that uses Spring MVC and Hibernate. The sample code is a simple CRUD page that manipulates records for a single model object.
 
 ## Running the application locally
